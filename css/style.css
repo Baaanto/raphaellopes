@@ -1,33 +1,38 @@
-﻿* {
-    margin: 0;
-    padding: 0;
+﻿@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+*{
+    margin: auto;
+    padding: auto;
 }
 
-body {
-  line-height: 1.5;
-  font-size: 16px;
-  font-family: "Montserra", sans-serif;
-  font-weight: 400;
-  box-sizing: border-box; 
-  color: #424242;
+/* Style du texte */
+
+body{
+    line-height: 1.5;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+    color: #4b4b4b;
 }
 
-.container, .container2{
+/* 1ere Partie de la photo */
+
+.container, .container_two{
     display: flex;
     flex-wrap: wrap;
     width: auto;
 }
 
-/* ASIDE SECTION */ 
 .aside{
     width: 25%;
-    background-color: #FDD835;
+    background-color: #feca07;
     display: flex;
     flex-direction: column;
 }
 
-/* photo */
-.photo__section{
+/* 2eme Partie de la photo */
+
+.photo_ID{
     display: flex;
     text-align: center;
     vertical-align: center;
@@ -35,76 +40,81 @@ body {
     padding: 20px;
     margin: 60px;
 }
-.photo__section img{
-    border-radius: 50%;
-    border: 4px solid;
-    border-color: rgba(191,54,12,0.2);
-    width: 280px;
 
+.photo_ID img{
+    border-radius: 50%;
+    border: 4px solid #daaf12;
+    width: 280px;
 }
 
-/* contact */
-.contact__section{
+/* Contact */
+
+.contact{
     margin-bottom: 20px;
 }
-.contact__section h2, .propos__section h2, .loisir__section h2{
-    background-color: #424242;
+
+.contact_sections h1, .apropos_sections h1, .loisirs_sections h1{
+    background-color: #4b4b4b;
     width: 100%;
     text-align: center;
-    color: #FDD835;
+    color: #feca07;
     text-transform: uppercase;
     font-size: 26px;
     font-weight: 500;
 }
-.contact__section_items{
+
+.contact_sections{
     padding: 20px 30px;
 }
-.contact__section_items .item{
+
+.contact_sections section{
     margin: 14px;
     font-size: 16px;
     font-weight: 500;
 }
 
-/* a propos */ 
-.propos__section{
-    flex-grow:1;
+/* A propos */
+
+.apropos_sections{
+    flex-grow: 1;
 }
-.propos__section p{
+.apropos_sections p{
     padding: 30px 40px;
     text-align: justify;
 }
- /* loisirs */ 
 
-.loisir__section_icons{
+/* Loisirs */
+
+.loisirs_icons{
     height: 60px;
     display: flex;
-    justify-content:space-evenly;
+    justify-content: space-evenly;
     padding: 20px;
 }
 
-.loisir__section_icons i{
+.loisirs_icons i{
     display: block;
     font-size: 30px;
     width: 60px;
     height: 60px;
     line-height: 60px;
     text-align: center;
-    color: #424242;
-    border: 2px solid #424242;
+    color: #4b4b4b;
+    border: 2px solid #4b4b4b;
     border-radius: 50%;
 }
 
-/* MAIN_CONTENT SECTION */ 
-.main_content{
+/* First Content */
+.first_content{
     width: 75%;
 }
 
-.header, .formation__section, .exp__section, .recommandation__section{
+.header, .formation_sections, .exp_sections, .recom_sections{
     padding: 0 80px;
     margin: 40px 0;
 }
 
-/* header */
+/* Header */
 
 .header{
     height: 320px;
@@ -119,161 +129,20 @@ body {
 }
 
 .header h1 span{
-    color: #FDD835;
+    color: #feca07;
 }
-.header .text{
+
+.header .intro{
     position: relative;
     font-size: 32px;
 }
+
 .header .text::after{
     content: " ";
     position: absolute;
     left: 0;
-    bottom: -5px;  
-    background-color: #FDD835;
+    bottom: -5px;
+    background-color: #feca07;
     width: 60px;
     height: 3px;
-}
-
-/* formation, exp, recommandation point en commun */
-.formation__section h1, .exp__section h1, .recommandation__section h1{
-    position: relative;
-    text-transform: uppercase;
-}
-
-.formation__section h1::after, .exp__section h1::after, .recommandation__section h1::after{
-    content: " ";
-    position: absolute;
-    left: 0;
-    bottom: -5px;  
-    background-color: #FDD835;
-    width: 100%;
-    height: 3px;
-}
-
-.formation__section-content, .exp__section-content, .recommandation__section-content{
-    display: flex;
-    flex-wrap: wrap;
-    margin: 30px 0;
-    padding: 15px 0;
-}
-
-.formation__section-content--left, .exp__section-content--left {
-    width: 26%;
-    font-size: 16px;
-    font-weight: 500;
-}
-.formation__section-content--icon, .exp__section-content--icon {
-    width: 4%;
-}
-
-.formation__section-content--right, .exp__section-content--right {
-    width: 70%;
-}
-
-.formation__section-content--right h2, .exp__section-content--right h2 {
-    text-transform: uppercase;
-    font-weight: 600;
-    font-size: 22px;
-}
-
-.formation__section-content--right h3, .exp__section-content--right h3 {
-    font-weight: 500;
-    font-size: 20px;
-    margin-bottom: 3px;
-}
-
-.formation__section .fa-graduation-cap, .exp__section .fa-briefcase, .recommandation__section .fa-pencil-alt{
-    margin-right: 20px;
-    color: #FDD835;
-}
-
-.fa-circle {
-    font-size: 10px;
-    color: #FDD835;
-}
-
-.fa-dot-circle{
-    font-size:14px;
-    color: #FDD835;
-}
-
-/* formation */ 
-
-/* recommandations */ 
-.recommandation__section-content--left, .recommandation__section-content--right{
-    width: 50%;
-}
-
-.prenom{
-    font-weight: 600;
-    font-size: 20px;
-    text-transform: uppercase;
-}
-
-.poste{
-    font-weight: 600;   
-}
-
-@media screen and (max-width: 991px){
-    .container2{
-        flex-direction: column-reverse;
-    }
-    .aside, .main_content,.recommandation__section-content--left, .recommandation__section-content--right{
-        width: 100%;
-    }
-    .recommandation__section-content--left, .recommandation__section-content--right{
-        margin-bottom: 40px;
-    }
-    .header, .formation__section, .exp__section, .recommandation__section{
-        padding: 0 40px;
-        margin: 40px 0;
-    }
-    .propos__section{
-        flex-grow:0;
-    } 
-    .contact__section h2, .propos__section h2, .loisir__section h2{
-        font-size: 30px;
-    }
-    .formation__section h1, .exp__section h1, .recommandation__section h1{
-        font-size: 38px;
-    }
-    .header .text{
-        font-size: 40px;
-    }
-    
-    p{
-        font-size: 22px;
-    }
-    .exp__section-content p, .formation__section-content p{
-        font-size: 28px;
-    }
-    .exp__section-content h2, .formation__section-content h2{
-        font-size: 32px;
-    }
-    .exp__section-content h3, .formation__section-content h3{
-        font-size: 30px;
-    }
-    .recommandation__section-content .prenom{
-        font-size: 26px;
-    }
-    .recommandation__section-content .poste{
-        font-size: 24px;
-    }
-    .contact__section_items, .recommandation__section-content{
-        text-align: center;
-    }
-    .loisir__section_icons{
-        height: 100px;
-    }   
-    
-    .loisir__section_icons i{
-        font-size: 60px;
-        width: 100px;
-        height: 100px;
-        line-height: 100px;
-    }
-    .header{
-        margin-bottom: 80px;
-    }
 }
