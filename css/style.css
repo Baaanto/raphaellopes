@@ -26,7 +26,7 @@ body{
 
 .aside{
     width: 25%;
-    background-color: #57FFBE;
+    background-color: #feca07;
     display: flex;
     flex-direction: column;
 }
@@ -44,7 +44,7 @@ body{
 
 .photo_ID img{
     border-radius: 50%;
-    border: 4px solid #3eb889;
+    border: 4px solid #daac08;
     width: 280px;
 }
 
@@ -55,10 +55,10 @@ body{
 }
 
 .contact h2, .apropos_sections h2, .loisir_sections h2{
-    background-color: #c2482F;
+    background-color: #4b4b4b;
     width: 100%;
     text-align: center;
-    color: #57FFBE;
+    color: #feca07;
     text-transform: uppercase;
     font-size: 26px;
     font-weight: 500;
@@ -100,8 +100,8 @@ body{
     height: 60px;
     line-height: 60px;
     text-align: center;
-    color: #c2482F;
-    border: 2px solid #c2482F;
+    color: #4b4b4b;
+    border: 2px solid #4b4b4b;
     border-radius: 50%;
 }
 
@@ -130,7 +130,7 @@ body{
 }
 
 .header h1 span{
-    color: #57FFBE;
+    color: #feca07;
 }
 
 .header .intro{
@@ -138,12 +138,12 @@ body{
     font-size: 32px;
 }
 
-.header .text::after{
-    content: "";
+.header .intro::after{
+    content: " ";
     position: absolute;
     left: 0;
     bottom: -5px;
-    background-color: #57FFBE;
+    background-color: #feca07;
     width: 60px;
     height: 3px;
 }
@@ -160,7 +160,7 @@ body{
     position: absolute;
     left: 0;
     bottom: -5px;
-    background-color: #1ED982;
+    background-color: #feca07;
     width: 100%;
     height: 3px;
 }
@@ -189,7 +189,7 @@ body{
 .formation_sections_content_txtright h2, .exp_sections_content_txtright h2{
     text-transform: uppercase;
     font: bolder;
-    font-weight: 600;
+    font-weight: 800;
     font-size: 25px;
 }
 
@@ -200,18 +200,18 @@ body{
 }
 
 .formation_sections .fa-user-graduate, .exp_sections .fa-suitcase, .recom_sections .fa-user-edit{
-    margin-right: 20px;
-    color: #c2482F;
+    margin-right: 30px;
+    color: #feca07;
 }
 
-.fa-spinner{
-    font-size: 20px;
-    color: #c2482F;
+.fa-dot-circle{
+    font-size: 14px;
+    color: #feca07;
 }
 
-.fa-check-circle{
-    font-size: 20px;
-    color: #c2482F;
+.fa-circle{
+    font-size: 14px;
+    color: #feca07;
 }
 
 .recom_sections_content_txtleft, .recom_sections_content_txtright{
@@ -219,7 +219,7 @@ body{
 }
 
 .prenom{
-    font-weight: 600;
+    font-weight: 800;
     font-size: 20px;
     text-transform: uppercase;
 }
@@ -238,8 +238,8 @@ body{
     .recom_sections_content_txtleft, .recom_sections_content_txtright{
         margin-bottom: 40px;
     }
-    .header, .formation_sections, .exp_sections, .recom_sections{
-        padding: 0 40px;
+    .header, .formation_sections, .exp_sections{
+        padding: 0 80px;
         margin: 40px 0;
     }
     .apropos_sections{
@@ -276,7 +276,7 @@ body{
         text-align: center;
     }
     .loisir_icons{
-        height: 100px;
+        height: 20px;
     }
     .loisir_icons i{
         font-size: 60px;
