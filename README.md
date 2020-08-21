@@ -1,3 +1,4 @@
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fbaaanto.github.io%2Fraphaellopes.github.io%2F)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4f36398285674f92802a08a1b564ac3b)](https://www.codacy.com/manual/Baaanto/raphaellopes.github.io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Baaanto/raphaellopes.github.io&amp;utm_campaign=Badge_Grade)
 
 # raphaellopes
