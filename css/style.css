@@ -125,15 +125,6 @@ hr {
     width: 6rem;
     margin: auto;
 }
-/* .header .intro::after{
-    content: " ";
-    position: absolute;
-    left: 0;
-    bottom: -5px;
-    background-color: #feca07;
-    width: 60px;
-    height: 3px;
-} */
 /* Formations | Expériences | Recommandations */
 .formation_sections h1, .exp_sections h1, .recom_sections h1{
     position: relative;
