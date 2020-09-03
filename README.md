@@ -4,13 +4,12 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/baaanto/raphaellopes.github.io?style=for-the-badge)
 
 
+
+![OC Logo](https://openclassrooms.com/fav-icon.png?v=1)
 # Projet n°2
 My CV
 
 Projet concernant la reproduction d'un CV. Mise en place de l'HTML, intégration du CSS.
 
 Exemple
-
-![OC Logo](https://openclassrooms.com/fav-icon.png?v=1)
-
-[![imgcv.png](https://i.postimg.cc/zfjwvbfC/imgcv.png)](https://postimg.cc/DWS4YzL0)d
+[![imgcv.png](https://i.postimg.cc/zfjwvbfC/imgcv.png)](https://postimg.cc/DWS4YzL0)
