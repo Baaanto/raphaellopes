@@ -13,4 +13,4 @@ Projet concernant la reproduction d'un CV. Mise en place de l'HTML, intégration
 
 Exemple
 
-[![imgcv.png](https://i.postimg.cc/zfjwvbfC/imgcv.png)](https://postimg.cc/DWS4YzL0)
+[![imgcv.png](https://i.postimg.cc/G3DP4Rfy/imgcv.png)](https://postimg.cc/yWV3GMs1)
