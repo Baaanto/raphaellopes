@@ -45,8 +45,7 @@ Votre projet devra respecter les contraintes suivantes :
 * Vous devez réaliser ce projet avec HTML et CSS sans utiliser de framework.
 * Votre code ne doit contenir aucune erreur ni alerte au validateur HTML et CSS.
 
-Pour faciliter votre passage au jury, déposez sur la plateforme, dans un dossier nommé “P2_nom_prenom”, tous les livrables du projet. Chaque livrable doit être nommé avec le
-numéro du projet et selon l'ordre dans lequel il apparaît, par exemple “P2_01_lienGithub”, “P2_02_lienpageweb”, et ainsi de suite.
+Pour faciliter votre passage au jury, déposez sur la plateforme, dans un dossier nommé “P2_nom_prenom”, tous les livrables du projet. Chaque livrable doit être nommé avec le numéro du projet et selon l'ordre dans lequel il apparaît, par exemple “P2_01_lienGithub”, “P2_02_lienpageweb”, et ainsi de suite.
 
 **Que faire si je ne veux pas diffuser d’informations personnelles en ligne ?**
 
