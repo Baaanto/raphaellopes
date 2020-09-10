@@ -29,13 +29,14 @@ L'utilisation de flexbox est conseillée.
 ## Livrables
 
 * Un lien vers votre repository Github ou Gitlab
-  * Vous devez versionner votre code sur Github ou Gitlab.
-  * Votre repository doit être accessible.
+  *  Vous devez versionner votre code sur Github ou Gitlab.
+
+  *  Votre repository doit être accessible.
 * Un lien vers votre page web hébergée en ligne sur Github Pages ou Gitlab Pages, pour présenter votre CV.
 
 Votre projet devra respecter les contraintes suivantes :
-* Vous devez réaliser ce projet avec HTML et CSS sans utiliser de framework.
-* Votre code ne doit contenir aucune erreur ni alerte au validateur HTML et CSS.
+*  Vous devez réaliser ce projet avec HTML et CSS sans utiliser de framework.
+*  Votre code ne doit contenir aucune erreur ni alerte au validateur HTML et CSS.
 
 Pour faciliter votre passage au jury, déposez sur la plateforme, dans un dossier nommé “P2_nom_prenom”, tous les livrables du projet. Chaque livrable doit être nommé avec le numéro du projet et selon l'ordre dans lequel il apparaît, par exemple “P2_01_lienGithub”, “P2_02_lienpageweb”, et ainsi de suite.
 
