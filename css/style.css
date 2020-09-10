@@ -87,6 +87,13 @@ body{
     border: 2px solid #4b4b4b;
     border-radius: 50%;
 }
+.loisir_icons i:hover{
+    color: #8bbd02;
+    border-color: #8bbd02;
+}
+a{
+    text-decoration: none;
+}
 /* First Content */
 .first_content{
     width: 75%;
