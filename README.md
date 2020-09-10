@@ -9,14 +9,8 @@
 Vous venez de vous lancer en tant que développeur web freelance et un client potentiel
 vous contacte sur LinkedIn. Il vous envoie le message suivant :
 
-*Bonjour,
-Je me permets de vous écrire car j'aimerais faire appel à un développeur web pour
-refaire mon site internet, présentant mon atelier. Je suis ébéniste depuis 10 ans. J'ai
-conçu moi-même mon site il y a quelques années, avec mes quelques bases de code,
-mais le site n'est vraiment plus adapté et je n'ai plus du tout le temps de m'en
-occuper. Il faudrait repartir de zéro. Je pense qu'il me faudrait quelqu'un avec de
-solides bases en HTML et CSS. Je serais ravi d'en discuter avec vous,
-Bien cordialement*
+_Bonjour, Je me permets de vous écrire car j'aimerais faire appel à un développeur web pour refaire mon site internet, présentant mon atelier. Je suis ébéniste depuis 10 ans. J'ai conçu moi-même mon site il y a quelques années, avec mes quelques bases de code, mais le site n'est vraiment plus adapté et je n'ai plus du tout le temps de m'en
+occuper. Il faudrait repartir de zéro. Je pense qu'il me faudrait quelqu'un avec de solides bases en HTML et CSS. Je serais ravi d'en discuter avec vous, Bien cordialement_
 
 Votre CV n'est pas tout à fait à jour. Avant de rencontrer ce client potentiel, vous décidez
 de créer votre propre site web, sur lequel vous publierez votre CV. Vous choisissez de
@@ -45,7 +39,7 @@ Votre projet devra respecter les contraintes suivantes :
 
 Pour faciliter votre passage au jury, déposez sur la plateforme, dans un dossier nommé “P2_nom_prenom”, tous les livrables du projet. Chaque livrable doit être nommé avec le numéro du projet et selon l'ordre dans lequel il apparaît, par exemple “P2_01_lienGithub”, “P2_02_lienpageweb”, et ainsi de suite.
 
-#### Que faire si je ne veux pas diffuser d’informations personnelles en ligne ?
+### Que faire si je ne veux pas diffuser d’informations personnelles en ligne ?
 
 Ce projet est un bon moyen de gagner en visibilité, mais vous avez parfaitement le droit d’utiliser des coordonnées OpenClassrooms et une photo de votre super-héros préféré.
 Vous devez quand même personnaliser la partie « À propos » de manière pertinente et indiquer des éléments cohérents pour votre parcours professionnel et vos études, mais vous pouvez omettre les noms des entreprises.
