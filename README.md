@@ -2,7 +2,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/baaanto/raphaellopes.github.io?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/baaanto/raphaellopes.github.io?style=for-the-badge)
 
-
 ![OC Logo](https://openclassrooms.com/fav-icon.png?v=1)
 # Projet n°2 : Transformez votre CV en site Web
 ## Scénario 
@@ -46,7 +45,7 @@ Votre projet devra respecter les contraintes suivantes :
 
 Pour faciliter votre passage au jury, déposez sur la plateforme, dans un dossier nommé “P2_nom_prenom”, tous les livrables du projet. Chaque livrable doit être nommé avec le numéro du projet et selon l'ordre dans lequel il apparaît, par exemple “P2_01_lienGithub”, “P2_02_lienpageweb”, et ainsi de suite.
 
-**Que faire si je ne veux pas diffuser d’informations personnelles en ligne ?**
+#### Que faire si je ne veux pas diffuser d’informations personnelles en ligne ?
 
 Ce projet est un bon moyen de gagner en visibilité, mais vous avez parfaitement le droit d’utiliser des coordonnées OpenClassrooms et une photo de votre super-héros préféré.
 Vous devez quand même personnaliser la partie « À propos » de manière pertinente et indiquer des éléments cohérents pour votre parcours professionnel et vos études, mais vous pouvez omettre les noms des entreprises.
