@@ -29,9 +29,10 @@ L'utilisation de flexbox est conseillée.
 ## Livrables
 
 * Un lien vers votre repository Github ou Gitlab
-  *  Vous devez versionner votre code sur Github ou Gitlab.
 
+  *  Vous devez versionner votre code sur Github ou Gitlab.
   *  Votre repository doit être accessible.
+
 * Un lien vers votre page web hébergée en ligne sur Github Pages ou Gitlab Pages, pour présenter votre CV.
 
 Votre projet devra respecter les contraintes suivantes :
