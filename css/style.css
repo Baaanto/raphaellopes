@@ -58,6 +58,8 @@ aside{
 }
 .contact_sections section{
     margin: 14px;
+}
+.contact_sections section h5{
     font-size: 16px;
     font-weight: 500;
 }
